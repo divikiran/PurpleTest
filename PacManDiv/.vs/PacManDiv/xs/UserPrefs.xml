@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8553A33B-A3DE-470D-A9BB-C56EF79D835B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PacManDiv/MainViewModel.cs">
+    <Files>
+      <File FileName="PacManDiv.UnitTests/PacManTests.cs" Line="17" Column="27" />
+      <File FileName="PacManDiv/MainPage.xaml.cs" Line="27" Column="1" />
+      <File FileName="PacManDiv/MainPage.xaml" Line="50" Column="104" />
+      <File FileName="PacManDiv/MainViewModel.cs" Line="22" Column="19" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PacManDiv" expanded="True">
+            <Node name="PacManDiv" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainViewModel.cs" selected="True" />
+            </Node>
+            <Node name="PacManDiv.UnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PacManDiv.Android PreferredExecutionTarget="Android.pixel_3_r_11_0_-_api_30" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

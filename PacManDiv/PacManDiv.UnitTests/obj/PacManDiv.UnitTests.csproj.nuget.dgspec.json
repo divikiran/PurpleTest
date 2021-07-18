@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj",
+        "projectName": "PacManDiv.UnitTests",
+        "projectPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj",
+        "packagesPath": "/Users/divikiranravela/.nuget/packages/",
+        "outputPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/divikiranravela/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/DownerDBot/_packaging/DownerDBot/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ExTrack-Dev/ExTrack.Shared/_packaging/Extrack_Feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj": {
+                "projectPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj",
+        "projectName": "PacManDiv",
+        "projectPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj",
+        "packagesPath": "/Users/divikiranravela/.nuget/packages/",
+        "outputPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/divikiranravela/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/DownerDBot/_packaging/DownerDBot/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ExTrack-Dev/ExTrack.Shared/_packaging/Extrack_Feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.1.0.514, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2083, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

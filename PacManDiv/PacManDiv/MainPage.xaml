@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage BackgroundColor="LightGray" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="PacManDiv.MainPage">
+    <!-- Place new controls here -->
+
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" x:Name="PacManGrid" BackgroundColor="LightGray" RowSpacing="3" ColumnSpacing="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+                <Label Grid.Row="0" Grid.ColumnSpan="3" Text="{Binding ReportText}" TextColor="DarkOrange" HorizontalTextAlignment="Center" />
+           
+            <Grid Grid.Row="1" Grid.ColumnSpan="3">
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*" />
+                        <ColumnDefinition Width="9*" />
+                    </Grid.ColumnDefinitions>
+                    <Label Text="X:" Grid.Column="0" Grid.Row="0"></Label>
+                    <Slider Maximum="6" x:Name="x" Grid.Column="1" Grid.Row="0" Value="{Binding PlaceX}"/>
+                    <Label Text="Y:" Grid.Column="0" Grid.Row="1"></Label>
+                    <Slider x:Name="y" Maximum="6" Grid.Column="1" Grid.Row="1" Value="{Binding PlaceY}"/>
+                </Grid>
+                <Picker x:Name="directionPicker" Grid.Row="1" Grid.Column="0" Title="Select Direction" SelectedItem="{Binding SelectedDirection}">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>North</x:String>
+                            <x:String>South</x:String>
+                            <x:String>East</x:String>
+                            <x:String>West</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </Grid>
+
+            <Button Text="PLACE X, Y, D" Command="{Binding PlaceCommand}" Grid.Row="2" Grid.ColumnSpan="3" />
+            <Button Text="LEFT" Grid.Row="3" Grid.Column="0" Command="{Binding TurnLeftCommand}" />
+            <Button Text="MOVE" Grid.Row="3" Grid.Column="1" Command="{Binding MovePacManCommand}"/>
+            <Button Text="RIGHT" Grid.Row="3" Grid.Column="2" Command="{Binding TurnRightCommand}" />
+            <Button Text="REPORT" Grid.Row="4" Grid.ColumnSpan="3" />
+
+        </Grid>
+
+    </Grid>
+</ContentPage>
