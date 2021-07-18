@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+SwiREh2Ap0Ss5EFX7TrOv0ycvlOnl1kgJgHENtcM38WYapUS2mVjyWdpi9SnY5l5gzyIq1Q7vQBbaDVZuVUTw==",
+  "dgSpecHash": "C/j53VKdIdUfst7KoEPEX5+Bk2IdXqLeN7kbyCO5cW7Ej2mOL/G0HSTaTDS1ux/7vfeb4pngj6ObNMHdAYHRWw==",
   "success": true,
-  "projectFilePath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.Android/PacManDiv.Android.csproj",
+  "projectFilePath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.Android/PacManDiv.Android.csproj",
   "expectedPackageFiles": [
     "/Users/divikiranravela/.nuget/packages/acr.userdialogs/7.1.0.514/acr.userdialogs.7.1.0.514.nupkg.sha512",
     "/Users/divikiranravela/.nuget/packages/andhud/1.4.2/andhud.1.4.2.nupkg.sha512",

@@ -1,0 +1,14 @@
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/bin/Debug/netstandard2.0/PacManDiv.deps.json
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/bin/Debug/netstandard2.0/PacManDiv.dll
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/bin/Debug/netstandard2.0/ref/PacManDiv.dll
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/bin/Debug/netstandard2.0/PacManDiv.pdb
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/PacManDiv.csproj.AssemblyReference.cache
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/PacManDiv.AssemblyInfoInputs.cache
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/PacManDiv.AssemblyInfo.cs
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/PacManDiv.csproj.CoreCompileInputs.cache
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/PacManDiv.dll
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/ref/PacManDiv.dll
+/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/Debug/netstandard2.0/PacManDiv.pdb

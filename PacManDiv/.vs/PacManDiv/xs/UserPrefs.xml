@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{8553A33B-A3DE-470D-A9BB-C56EF79D835B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PacManDiv/MainViewModel.cs">
     <Files>
-      <File FileName="PacManDiv.UnitTests/PacManTests.cs" Line="17" Column="27" />
-      <File FileName="PacManDiv/MainPage.xaml.cs" Line="27" Column="1" />
-      <File FileName="PacManDiv/MainPage.xaml" Line="50" Column="104" />
-      <File FileName="PacManDiv/MainViewModel.cs" Line="22" Column="19" NotebookId="1" />
+      <File FileName="PacManDiv.UnitTests/PacManTests.cs" />
+      <File FileName="PacManDiv/MainPage.xaml.cs" />
+      <File FileName="PacManDiv/MainPage.xaml" />
+      <File FileName="PacManDiv/MainViewModel.cs" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,13 +18,33 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ViewModel.CurrentAngle</Value>
+          <Value>ViewModel.PlaceCol</Value>
+          <Value>ViewModel.PlacedRow</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PacManDiv" expanded="True" selected="True" />
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.PacManDiv.Android PreferredExecutionTarget="Android.pixel_3_r_11_0_-_api_30" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/PacManTests.cs" relfile="PacManDiv.UnitTests/PacManTests.cs" line="213" column="1" />
+      <Breakpoint file="/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/PacManTests.cs" relfile="PacManDiv.UnitTests/PacManTests.cs" line="223" column="1" />
+      <Breakpoint file="/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/PacManTests.cs" relfile="PacManDiv.UnitTests/PacManTests.cs" line="224" column="1" />
+      <Breakpoint file="/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/PacManTests.cs" relfile="PacManDiv.UnitTests/PacManTests.cs" line="227" column="1" />
+      <Breakpoint file="/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/PacManTests.cs" relfile="PacManDiv.UnitTests/PacManTests.cs" line="228" column="1" />
+      <Breakpoint file="/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/PacManTests.cs" relfile="PacManDiv.UnitTests/PacManTests.cs" line="229" column="1" />
+      <Breakpoint file="/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv/MainViewModel.cs" relfile="PacManDiv/MainViewModel.cs" line="124" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

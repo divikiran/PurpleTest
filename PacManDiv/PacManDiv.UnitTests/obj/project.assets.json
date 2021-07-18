@@ -5374,11 +5374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj",
+      "projectUniqueName": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj",
       "projectName": "PacManDiv.UnitTests",
-      "projectPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj",
+      "projectPath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj",
       "packagesPath": "/Users/divikiranravela/.nuget/packages/",
-      "outputPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.UnitTests/obj/",
+      "outputPath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/divikiranravela/.config/NuGet/NuGet.Config"
@@ -5395,8 +5395,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj": {
-              "projectPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj"
+            "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv/PacManDiv.csproj": {
+              "projectPath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv/PacManDiv.csproj"
             }
           }
         }

@@ -584,11 +584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj",
+      "projectUniqueName": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv/PacManDiv.csproj",
       "projectName": "PacManDiv",
-      "projectPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj",
+      "projectPath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv/PacManDiv.csproj",
       "packagesPath": "/Users/divikiranravela/.nuget/packages/",
-      "outputPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/obj/",
+      "outputPath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/divikiranravela/.config/NuGet/NuGet.Config"

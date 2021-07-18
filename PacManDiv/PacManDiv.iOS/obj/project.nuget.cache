@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VYq/Ga+/EZx8MtlrZ5ppWtipQ32x+X+nHy3Q6h+wT2qpp/VmHik9IKDo9BOMx9QZnQpm058SOYTglU3p1A6Txg==",
+  "dgSpecHash": "Sj+QzWLIDaMELPNr6vgJIN4mdndf4ZAJMaa/v42pLDCru04ioy/SRFyyp2MijDqIMUzfyBtKHG+INdCsDHn63A==",
   "success": true,
-  "projectFilePath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.iOS/PacManDiv.iOS.csproj",
+  "projectFilePath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.iOS/PacManDiv.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/divikiranravela/.nuget/packages/acr.userdialogs/7.1.0.514/acr.userdialogs.7.1.0.514.nupkg.sha512",
     "/Users/divikiranravela/.nuget/packages/btprogresshud/1.3.1/btprogresshud.1.3.1.nupkg.sha512",

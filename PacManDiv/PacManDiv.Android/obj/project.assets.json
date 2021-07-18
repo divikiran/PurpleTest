@@ -2379,11 +2379,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.Android/PacManDiv.Android.csproj",
+      "projectUniqueName": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.Android/PacManDiv.Android.csproj",
       "projectName": "PacManDiv.Android",
-      "projectPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.Android/PacManDiv.Android.csproj",
+      "projectPath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.Android/PacManDiv.Android.csproj",
       "packagesPath": "/Users/divikiranravela/.nuget/packages/",
-      "outputPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.Android/obj/",
+      "outputPath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2400,8 +2400,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj": {
-              "projectPath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv/PacManDiv.csproj"
+            "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv/PacManDiv.csproj": {
+              "projectPath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv/PacManDiv.csproj"
             }
           }
         }

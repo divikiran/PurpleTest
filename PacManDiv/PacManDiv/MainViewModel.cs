@@ -125,7 +125,6 @@ namespace PacManDiv
             {
                 StackTapCommand.Execute(stack);
             }
-            //PacManPlaced = false;
         }
 
 

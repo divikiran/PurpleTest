@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hmYC/BsPxnHLMb2SJnmFSMD4tmf/a/IMpTY30+PEsqaLxNuY2w5fCSJ9UFKF8EJbBKNMrxOd2LioNGnb9tvbA==",
+  "dgSpecHash": "a5TaWYJ21fOPYRwGWDzvbITcDA3oYzj2etO8Zf4P+sMNSejaXTEiphPUwcbhdeLMpVf/TGq6CHoHJV9wv68dyQ==",
   "success": true,
-  "projectFilePath": "/Users/divikiranravela/Projects/NugetPOC1/PacManDiv/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj",
+  "projectFilePath": "/Users/divikiranravela/Documents/Github/PurpleTest/PurpleTest/PacManDiv/PacManDiv.UnitTests/PacManDiv.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/divikiranravela/.nuget/packages/acr.userdialogs/7.1.0.514/acr.userdialogs.7.1.0.514.nupkg.sha512",
     "/Users/divikiranravela/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
